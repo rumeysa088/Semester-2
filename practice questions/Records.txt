@@ -1,0 +1,3 @@
+Client: Rumaisa Cost: 100
+Client: Ali Cost: 200
+Client: Sara Cost: 150
